@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about any of my Repos
-- 📫 How to reach me: Reginaldallonce@yahoo.com and /www.linkedin.com/in/reginald-allonce-330016151/
+- 📫 How to reach me: Reginaldallonce@yahoo.com and www.linkedin.com/in/reginald-allonce-330016151/
 
